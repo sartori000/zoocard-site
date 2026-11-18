@@ -1,0 +1,5 @@
+import"./modulepreload-polyfill-P2Xu9kJm.js";import{a as e,n as t,t as n}from"./codigos-DR3-9iPL.js";var r=document.createElement(`script`);r.src=`https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js`,r.onload=()=>{window.qrs={};let r=document.querySelector(`.grade`);r.innerHTML=Object.entries(n).map(([n,r],i)=>{let a=window.qrcode(0,`M`);a.addData(t+n),a.make();let o=a.createSvgTag({cellSize:10,margin:40});window.qrs[n]=o;let s=e[r]?.nome??r,c=`qr-${r}-${i%5+1}.svg`;return`<div><div class="verso" style="background-image:url(./cartas/verso.webp)">
+      <div class="qr">${a.createSvgTag({cellSize:4,margin:0})}</div>
+      <div class="cod">${n}</div></div>
+      <div class="rotulo">${s} ${i%5+1} ·
+        <a download="${c}" href="data:image/svg+xml;charset=utf-8,${encodeURIComponent(o)}">baixar QR</a></div></div>`}).join(``)},document.head.appendChild(r);

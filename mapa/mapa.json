@@ -1,0 +1,326 @@
+{
+  "elementos": [
+    {
+      "id": "6di1t0g",
+      "arquivo": "Chao.svg",
+      "x": 215,
+      "y": 471.5,
+      "w": 430,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "atras"
+    },
+    {
+      "id": "308yjhy",
+      "arquivo": "Figma Mato 1.svg",
+      "x": 444.9,
+      "y": 272.9,
+      "w": 65.7,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "afidj7t",
+      "arquivo": "Figma Arvore 1.svg",
+      "x": 412.6,
+      "y": 679,
+      "w": 145.1,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "jc3ypnw",
+      "arquivo": "Figma Matinho 1.svg",
+      "x": -1.5,
+      "y": 689,
+      "w": 138.9,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "bxsn8mr",
+      "arquivo": "Figma Matinho 2.svg",
+      "x": -15.6,
+      "y": 488.6,
+      "w": 106.7,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "mu5ax3j",
+      "arquivo": "Figma Matinho 3.svg",
+      "x": 105.3,
+      "y": 425.6,
+      "w": 106.7,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "ordem"
+    },
+    {
+      "id": "rmk1afc",
+      "arquivo": "Figma Mato 2.svg",
+      "x": 148.5,
+      "y": 688.5,
+      "w": 91,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "nwqj35e",
+      "arquivo": "Figma Mato 3.svg",
+      "x": 148,
+      "y": 46.5,
+      "w": 58,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "77t7xh8",
+      "arquivo": "Figma Matinho 4.svg",
+      "x": 288.9,
+      "y": 50.5,
+      "w": 85.9,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "zh15jwa",
+      "arquivo": "Figma Arvore 2.svg",
+      "x": 442,
+      "y": 517,
+      "w": 131.7,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "6ybh0yc",
+      "arquivo": "Figma Arvore 3.svg",
+      "x": 323.6,
+      "y": -19.3,
+      "w": 145.1,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "1ieud5a",
+      "arquivo": "Figma Arvore 4.svg",
+      "x": 39.5,
+      "y": -5.3,
+      "w": 145.1,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "g01frk0",
+      "arquivo": "Figma Arvore 5.svg",
+      "x": 429.3,
+      "y": 0,
+      "w": 96.6,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "4jf3nhs",
+      "arquivo": "Figma Matinho 5.svg",
+      "x": 12,
+      "y": 236.2,
+      "w": 96,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "wp94k26",
+      "arquivo": "Figma Mato 4.svg",
+      "x": 442,
+      "y": 94.5,
+      "w": 58,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "meio"
+    },
+    {
+      "id": "6tivovt",
+      "arquivo": "Figma Arvore 6.svg",
+      "x": 306.8,
+      "y": 737.4,
+      "w": 131.5,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "ij6hls6",
+      "arquivo": "Figma Arvore 7.svg",
+      "x": 435.3,
+      "y": 376.9,
+      "w": 96.6,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "57ltb3o",
+      "arquivo": "Figma Arvore 8.svg",
+      "x": 87,
+      "y": 725.2,
+      "w": 134,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    },
+    {
+      "id": "hk9jqnw",
+      "arquivo": "Figma Matinho 6.svg",
+      "x": 417.6,
+      "y": 863.5,
+      "w": 119.2,
+      "giro": 0,
+      "espelhar": false,
+      "camada": "frente"
+    }
+  ],
+  "notas": [
+    {
+      "id": "zcl7s8a",
+      "x": 215,
+      "y": 466,
+      "texto": "Cerquinha: bloqueia a passagem da esquerda até terminar a área do meio"
+    }
+  ],
+  "cores": {},
+  "versoes": {},
+  "altura": 943,
+  "recintos": {
+    "iguana": {
+      "x": -3.2,
+      "y": 54.3,
+      "w": 188.5
+    },
+    "tucano": {
+      "x": -3.2,
+      "y": 238.2,
+      "w": 188.5
+    },
+    "pinguim": {
+      "x": 243.2,
+      "y": 238.2,
+      "w": 188.5
+    },
+    "tamandua": {
+      "x": 32.5,
+      "y": 411.7,
+      "w": 291.0
+    },
+    "lobo": {
+      "x": 243.2,
+      "y": 54.3,
+      "w": 188.5
+    }
+  },
+  "entrada": {
+    "x": 214.5,
+    "y": 850
+  },
+  "caminhos": {
+    "pontos": [
+      [
+        214.5,
+        20
+      ],
+      [
+        214.5,
+        211.5
+      ],
+      [
+        12,
+        211.5
+      ],
+      [
+        418,
+        211.5
+      ],
+      [
+        214.5,
+        396.5
+      ],
+      [
+        12,
+        396.5
+      ],
+      [
+        355.5,
+        396.5
+      ],
+      [
+        355.5,
+        637.5
+      ],
+      [
+        214.5,
+        637.5
+      ],
+      [
+        12,
+        637.5
+      ],
+      [
+        214.5,
+        943
+      ]
+    ],
+    "ligacoes": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        8,
+        10
+      ]
+    ]
+  }
+}
